@@ -47,6 +47,38 @@
 ---
 
  # Padrão Template Method
+
+## :memo: **Roteiro**
+
+<div align="center">
+
+|     :computer: topics                                   |     Description    |
+|      :---                                               |      :---         |
+| :heavy_check_mark: **Pattern Name and Classification**  | - Método de Template Padrão
+||- Padrão Comportamental|
+| :heavy_check_mark: **Intent**                           |- Permite que as subclasses façam modificações deste algoritimo sem alterar a estrutura  |
+| :heavy_check_mark: **Motivation**                       |- Alterações no algoritmo podem ser feitas de forma genética ou específica em cada componente específico|
+| :heavy_check_mark: **Applicability**                    | - Aplicação que possui estrutura hierárquica e um algoritmo que pode ser dividido em etapas.
+|| - Dois ou mais componentes diferentes implementam esse algoritmo, possuindo várias semelhanças mas algumas diferenças na implementação de algumas etapas do algoritmo.
+|| - Alterações no algoritmo podem ser feitas de forma genérica ou específica e componente específico cada Útil em cenários em que se tem um gerador automático de código|
+|:heavy_check_mark:   **Participants**                     |Definir o templateMethod que é responsável por chamar os demais métodos.
+||Especificações dos métodos abstratos das etapas de execução
+||ApplicationClassOne / ApplicationClassTwo:
+||Redefine, quando necessário, algumas etapas do algoritmo especificado em FrameworkClass
+|:heavy_check_mark: **Sample Code**                     |[Links](https://github.com/PF-Henrique/Programacao-Avancada/tree/master/TemplateMethod)|
+</div>
+
+---
+
+## :movie_camera: **Arquiteture**
+
+<p align="center"><b> :computer: Arquiteture Template method </b>
+
+<p align="center">
+  <kbd><img alt="Dino Game" src="https://github.com/PF-Henrique/Programacao-Avancada/blob/master/.docs/Template%2BMethod%2B(estrutura).jpg" width= "500px;" height= "250px;" /></kbd>
+<p>
+
+---
  
 ## ✨ Me
 
