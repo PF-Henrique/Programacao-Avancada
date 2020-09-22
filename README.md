@@ -31,7 +31,7 @@
 ||- Implementa operações relacionadas a filhos e definidas na interface Component
 ||**- Client:**
 ||- Manipula os objetos da composição via interface Component
-|:heavy_check_mark: **Sample Code**                     |links|
+|:heavy_check_mark: **Sample Code**                     |[Links](https://github.com/PF-Henrique/Programacao-Avancada/tree/master/Composite)|
 </div>
 
 ---
@@ -41,7 +41,7 @@
 <p align="center"><b> :computer: Arquiteture Composite </b>
 
 <p align="center">
-  <kbd><img alt="Dino Game" src="#"/></kbd>
+  <kbd><img alt="Dino Game" src="https://github.com/PF-Henrique/Programacao-Avancada/blob/master/.docs/composite.jpg"/></kbd>
 <p>
 
 ---
