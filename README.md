@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Dino Game" src="#" width="200px"/>
+  <img alt="Wyden" src="https://github.com/PF-Henrique/Programacao-Avancada/blob/master/.docs/0.jpg" width="200px"/>
 <p>
 
 
