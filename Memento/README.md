@@ -22,7 +22,9 @@
 
 ## 5. **Structure:**
 
-**[repl.it](https://repl.it/@JoaoRonaldo/)**
+<p align="center">
+  <img alt="Wyden" src="https://github.com/PF-Henrique/Programacao-Avancada/blob/master/.docs/Memento.png" />
+<p>
 
 
 ## 6. **Participants:**
