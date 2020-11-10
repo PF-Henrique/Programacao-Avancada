@@ -1,0 +1,4 @@
+
+https://github.com/SsmoothSmooth/Estudo/tree/master/01%20-%20Programa%C3%A7%C3%A3o%20avan%C3%A7ada
+
+https://github.com/MarcosX/Padr-es-de-Projeto/blob/master/src/br/padroes/memento/TextoCareTaker.java
