@@ -22,7 +22,9 @@
 
 ## 5. **Structure:**
 
-**[repl.it](https://repl.it/@JoaoRonaldo/)**
+<p align="center">
+  <img alt="Wyden" src="https://github.com/PF-Henrique/Programacao-Avancada/blob/master/.docs/Memento.png" />
+<p>
 
 
 ## 6. **Participants:**
@@ -38,7 +40,7 @@
 
 
 ## 7. **Sample Code:**
-1. [github.com/SsmoothSmooth/Estudo/Padrão de projetos/Memento/MementoPatten](https://github.com/SsmoothSmooth/Estudo/tree/master/01%20-%20Programa%C3%A7%C3%A3o%20avan%C3%A7ada/Padr%C3%A3o%20de%20projetos/Memento/MementoPatten)
+1. [memento repl.it](https://repl.it/@JoaoRonaldo/MementoPatternDotNet-1)
 * Neste código possui uma interface que permite escrever um texto, desfazer a operação de escrita e exibir o texto no terminal. Ao escrever um novo texto, primeiro o estado é salvo, então a alteração é feita. Ao desfazer a escrita é solicitado ao Caretaker que pegue o último estado salvo, a partir deste estado é possível pegar o texto e restaurá-lo.
 
 
