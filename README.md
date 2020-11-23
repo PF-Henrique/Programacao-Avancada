@@ -9,17 +9,6 @@
 
 ## :memo: **Roteiro**
 
-
-## :movie_camera: **Arquiteture**
-
-<p align="center"><b> :computer: Arquiteture Composite </b>
-
-<p align="center">
-  <kbd><img alt="Dino Game" src="https://github.com/PF-Henrique/Programacao-Avancada/blob/master/.docs/composite.jpg"/></kbd>
-<p>
-
----
-
  # Padrão Template Method
 
 ## :memo: **Roteiro**
